@@ -3487,6 +3487,14 @@
     "format": "png"
   }]
 }, {
+  "name": "lit",
+  "icons": [{
+    "url": "ipfs://QmXZcwET1LhUxfc2mCdiCJFm61jUHsVVXuZYwx8zhvHQxn",
+    "width": 164,
+    "height": 120,
+    "format": "png"
+  }]
+}, {
   "name": "idchain",
   "icons": [{
     "url": "ipfs://QmZVwsY6HPXScKqZCA9SWNrr4jrQAHkPhVhMWi6Fj1DsrJ",

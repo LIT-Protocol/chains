@@ -8241,6 +8241,19 @@
   "faucets": [],
   "infoURL": ""
 }, {
+  "name": "Vesuvius - Lit Protocol Testnet",
+  "chainId": 2311,
+  "shortName": "lpv",
+  "networkId": 2311,
+  "nativeCurrency": {
+    "name": "Test LPX",
+    "symbol": "tstLPX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-vesuvius-as793xpg5g.t.conduit.xyz"],
+  "faucets": ["https://developer.litprotocol.com/support/intro"],
+  "infoURL": "https://litprotocol.com"
+}, {
   "name": "SOMA Network Testnet",
   "chainId": 2323,
   "shortName": "sma",
@@ -17730,6 +17743,19 @@
   "rpc": ["https://rpc.hekla.taiko.xyz", "wss://ws.hekla.taiko.xyz"],
   "faucets": [],
   "infoURL": "https://taiko.xyz"
+}, {
+  "name": "Chronicle - Lit Protocol Testnet",
+  "chainId": 175177,
+  "shortName": "lpc",
+  "networkId": 175177,
+  "nativeCurrency": {
+    "name": "Test LIT",
+    "symbol": "tstLIT",
+    "decimals": 18
+  },
+  "rpc": ["https://chain-rpc.litprotocol.com/http"],
+  "faucets": ["https://faucet.litprotocol.com"],
+  "infoURL": "https://developer.litprotocol.com/v3/network/rollup"
 }, {
   "name": "Bitica Chain Mainnet",
   "chainId": 188710,
