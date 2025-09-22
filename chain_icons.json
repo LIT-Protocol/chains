@@ -1495,6 +1495,14 @@
     "format": "jpg"
   }]
 }, {
+  "name": "jovay",
+  "icons": [{
+    "url": "ipfs://bafkreif3xfpoojvgf23cf6kxx7q3pgbeqtkiiv3lro23i4lemb3wiodmq4",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "zoraSepoliaTestnet",
   "icons": [{
     "url": "ipfs://bafkreifvrly5tgd34xqeo67s4etmiu52bkroml7uy7eosizf57htf5nrzq",
@@ -2789,6 +2797,14 @@
     "width": 512,
     "height": 512,
     "format": "png"
+  }]
+}, {
+  "name": "0g",
+  "icons": [{
+    "url": "ipfs://bafkreicc5esbtgqwrptmyvp75hdefsmgzgozlrjx4d7zonxkwuh5fpne5m",
+    "width": 500,
+    "height": 500,
+    "format": "svg"
   }]
 }, {
   "name": "dcpayIcon",
