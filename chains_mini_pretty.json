@@ -2231,7 +2231,7 @@
     "symbol": "EGAS",
     "decimals": 18
   },
-  "rpc": ["https://rpc.eniac.network"],
+  "rpc": ["https://rpc.eniac.network", "wss://rpc.eniac.network/ws/"],
   "faucets": [],
   "infoURL": "https://eniac.network/"
 }, {
@@ -7929,6 +7929,19 @@
   "faucets": [],
   "infoURL": "https://rikeza.io"
 }, {
+  "name": "Injective Testnet",
+  "chainId": 1439,
+  "shortName": "injective-testnet",
+  "networkId": 1439,
+  "nativeCurrency": {
+    "name": "Injective",
+    "symbol": "INJ",
+    "decimals": 18
+  },
+  "rpc": ["https://k8s.testnet.json-rpc.injective.network", "wss://k8s.testnet.ws.injective.network", "https://injectiveevm-testnet-rpc.polkachu.com", "wss://injectiveevm-testnet-rpc.polkachu.com"],
+  "faucets": ["https://testnet.faucet.injective.network"],
+  "infoURL": "https://injective.com"
+}, {
   "name": "Living Assets Mainnet",
   "chainId": 1440,
   "shortName": "LAS",
@@ -8552,6 +8565,19 @@
   "rpc": ["https://tea.mining4people.com/rpc", "http://172.104.194.36:8545"],
   "faucets": [],
   "infoURL": "TeaPartyCrypto.com"
+}, {
+  "name": "Injective",
+  "chainId": 1776,
+  "shortName": "injective",
+  "networkId": 1776,
+  "nativeCurrency": {
+    "name": "Injective",
+    "symbol": "INJ",
+    "decimals": 18
+  },
+  "rpc": ["https://sentry.evm-rpc.injective.network", "wss://sentry.evm-ws.injective.network", "https://injectiveevm-rpc.polkachu.com", "wss://injectiveevm-ws.polkachu.com"],
+  "faucets": ["https://injective.com/getinj"],
+  "infoURL": "https://injective.com"
 }, {
   "name": "Gauss Mainnet",
   "chainId": 1777,
@@ -15924,6 +15950,19 @@
   "faucets": [],
   "infoURL": ""
 }, {
+  "name": "GIWA",
+  "chainId": 9134,
+  "shortName": "giwa",
+  "networkId": 9134,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://giwa.io"
+}, {
   "name": "Rinia Testnet Old",
   "chainId": 9170,
   "shortName": "_old_tfire",
@@ -17959,6 +17998,19 @@
   "nativeCurrency": {
     "name": "A0GI",
     "symbol": "A0GI",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://0g.ai"
+}, {
+  "name": "0G-Testnet-Galileo",
+  "chainId": 16602,
+  "shortName": "0g-testnet-galileo",
+  "networkId": 16602,
+  "nativeCurrency": {
+    "name": "0G",
+    "symbol": "0G",
     "decimals": 18
   },
   "rpc": ["https://evmrpc-testnet.0g.ai"],
@@ -23048,6 +23100,19 @@
   "faucets": [],
   "infoURL": "https://metadap.io/"
 }, {
+  "name": "GIWA Sepolia Testnet",
+  "chainId": 91342,
+  "shortName": "giwasepolia",
+  "networkId": 91342,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://sepolia-rpc.giwa.io"],
+  "faucets": ["https://faucet.giwa.io"],
+  "infoURL": "https://giwa.io"
+}, {
   "name": "Combo Testnet",
   "chainId": 91715,
   "shortName": "combo-testnet",
@@ -25725,6 +25790,32 @@
   "rpc": ["https://jsonrpc-test.hap.land"],
   "faucets": [],
   "infoURL": "https://hap.land"
+}, {
+  "name": "Silent Data Mainnet",
+  "chainId": 380929,
+  "shortName": "silent-data-mainnet",
+  "networkId": 380929,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.silentdata.com/${SILENTDATA_AUTH_TOKEN}"],
+  "faucets": [],
+  "infoURL": "https://www.silentdata.com"
+}, {
+  "name": "Silent Data Testnet",
+  "chainId": 381185,
+  "shortName": "silent-data-testnet",
+  "networkId": 381185,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet.silentdata.com/${SILENTDATA_AUTH_TOKEN}"],
+  "faucets": [],
+  "infoURL": "https://www.silentdata.com"
 }, {
   "name": "Metal C-Chain",
   "chainId": 381931,
@@ -29232,7 +29323,7 @@
     "symbol": "ATN",
     "decimals": 18
   },
-  "rpc": ["https://autonity.rpc.web3cdn.network/testnet", "wss://autonity.rpc.web3cdn.network/testnet/ws", "https://autonity-piccadilly.rpc.subquery.network/public", "https://piccadilly.autonity-apis.com", "wss://piccadilly-ws.autonity-apis.com"],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://autonity.org/"
 }, {
@@ -30470,6 +30561,19 @@
   "rpc": [],
   "faucets": [],
   "infoURL": "https://ultima.io"
+}, {
+  "name": "Tron Nile",
+  "chainId": 3448148188,
+  "shortName": "tron-nile",
+  "networkId": 3448148188,
+  "nativeCurrency": {
+    "name": "Tron",
+    "symbol": "TRX",
+    "decimals": 6
+  },
+  "rpc": ["https://nile.trongrid.io/jsonrpc"],
+  "faucets": [],
+  "infoURL": "https://tron.network"
 }, {
   "name": "OneLedger Testnet Frankenstein",
   "chainId": 4216137055,
