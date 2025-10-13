@@ -1279,6 +1279,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "nitrograph",
+  "icons": [{
+    "url": "ipfs://bafkreiglhsp6p2jthyaballkavwmpxwgenktcid6zy5cusd5bg6qafw7wy",
+    "width": 474,
+    "height": 474,
+    "format": "png"
+  }]
+}, {
   "name": "vectorsmartgas",
   "icons": [{
     "url": "ipfs://QmRRoNvamJavpaFsxS1PPxyxDZ7q8akcdeNrrQXWmg2fux",
@@ -2077,6 +2085,14 @@
     "width": 512,
     "height": 512,
     "format": "png"
+  }]
+}, {
+  "name": "quai",
+  "icons": [{
+    "url": "ipfs://bafkreih5hekf3lfvpbjcjlswylc6r3a4nbkogeesrf2pdtrhrwuy4a76cm",
+    "width": 500,
+    "height": 500,
+    "format": "svg"
   }]
 }, {
   "name": "abey",
@@ -3305,9 +3321,9 @@
 }, {
   "name": "xylume-testnet",
   "icons": [{
-    "url": "ipfs://QmRk9t6g5otTX6XcQjvFwsfzn2KjZwbstptH9C7uG2kVdD",
-    "width": 500,
-    "height": 500,
+    "url": "ipfs://QmUweMnhb4wYtwv59gh4GSxhDy6AbnRntXiQRe4mFFazcF",
+    "width": 1024,
+    "height": 1024,
     "format": "png"
   }]
 }, {
@@ -3953,9 +3969,9 @@
 }, {
   "name": "electroneum",
   "icons": [{
-    "url": "ipfs://QmVgFqXA3kkCrVYGcWFF7Mhx8JUSe9vSCauNamuKWSvCym",
-    "width": 1000,
-    "height": 1000,
+    "url": "ipfs://bafkreiefr7p63cufa53rylql4megu6mbe2fksl45fkbo4jkpt2pyy3q5xm",
+    "width": 647,
+    "height": 765,
     "format": "png"
   }]
 }, {
@@ -5911,6 +5927,14 @@
     "format": "png"
   }]
 }, {
+  "name": "lukso-testnet",
+  "icons": [{
+    "url": "ipfs://bafkreih5ws7esaru5k4crjekr3d27jbjmikjtxwswu7r34yofyzqywiadi",
+    "width": 512,
+    "height": 512,
+    "format": "svg"
+  }]
+}, {
   "name": "nexis",
   "icons": [{
     "url": "ipfs://QmdJwWuMgbhoZhgFM4zWrZne6qs5ktcL1vBLKX12VGgALM",
@@ -6647,6 +6671,14 @@
     "format": "png"
   }]
 }, {
+  "name": "nom",
+  "icons": [{
+    "url": "ipfs://QmVfJBGe7JpKJhG8hrSMU42RxhCSQ3ga3NSArA9vEFqF4C",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "dodao",
   "icons": [{
     "url": "ipfs://QmdWsi6mhs6Agb3LF4uycUwx2fgNmwkuAGb7JmsLPkwd3j",
@@ -7231,6 +7263,14 @@
     "format": "png"
   }]
 }, {
+  "name": "hyperagi",
+  "icons": [{
+    "url": "ipfs://bafkreihl6c22tj2cmo3ngsswaa42y2pnbhqwvo4pb4ktia6dasl6sldosi",
+    "width": 200,
+    "height": 200,
+    "format": "png"
+  }]
+}, {
   "name": "universe",
   "icons": [{
     "url": "ipfs://bafkreif53g2ynhznaqs5y5fxnj5ub3rfrwfsmvsyw23od3clmevnjqw46e",
@@ -7465,10 +7505,10 @@
 }, {
   "name": "lukso",
   "icons": [{
-    "url": "ipfs://Qmeg9sFF5tAGi6MCx7YjtVHW6a23zqvHRK1xwzSdp9iE7z",
+    "url": "ipfs://bafkreid3bbfc4jgzcurebnn6vwjcp6gxwewqpjep4nouqkq4k4jlmsldpy",
     "width": 512,
     "height": 512,
-    "format": "png"
+    "format": "svg"
   }]
 }, {
   "name": "altb",
